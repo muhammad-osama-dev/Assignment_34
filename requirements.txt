@@ -1,4 +1,0 @@
--i https://pypi.python.org/simple/
-
-flask==3.0.2
-
