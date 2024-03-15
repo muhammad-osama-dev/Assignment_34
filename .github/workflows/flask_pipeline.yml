@@ -63,7 +63,7 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
 
       - name: Build Docker image
-        run: docker build . -t your_image_name
+        run: docker build . -t moelshafei/34ML
 
       - name: Push Docker image
-        run: docker push your_image_name
+        run: docker push moelshafei/34ML
