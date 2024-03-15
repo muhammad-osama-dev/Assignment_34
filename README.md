@@ -35,9 +35,13 @@ Once the server is running, you can access the application at http://localhost:5
 
 This repository includes CI/CD pipelines implemented using GitHub Actions. The pipeline consists of the following stages:
 
-Build: Building the Python application.
-Test: Running unit tests and reporting the results.
-Dockerize: Creating a Dockerfile and docker-compose.yml to containerize the application.
-Deploy: Simulating a deployment process using Docker (no actual deployment needed).
+### Build
+Building the Python application.
+### Test
+Running unit tests and reporting the results.
+### Dockerize
+Creating a Dockerfile and docker-compose.yml to containerize the application.
+### Deploy
+Simulating a deployment process using Docker (no actual deployment needed).
  
 
