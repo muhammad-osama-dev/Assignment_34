@@ -1,1 +1,20 @@
-# Assignment_34
+# CI/CD using github actions on a simple python application 
+
+## Overview
+
+This repository contains a sample Python Flask application along with CI/CD pipelines implemented using GitHub Actions.
+
+## Installation
+
+To run this application locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/muhammad-osama-dev/Assignment_34.git
+   cd Assignment_34
+   pip install -r requirements.txt
+   ```
+## Usage 
+ ```bash
+   python app.py
+   ```
