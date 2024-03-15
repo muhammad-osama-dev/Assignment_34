@@ -17,7 +17,7 @@ Before you begin, ensure you have the following prerequisites:
 
 1. **Clone Repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/muhammad-osama-dev/Assignment_34.git
    ```
 
 2. **Update Variables:**
